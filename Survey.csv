@@ -1,0 +1,169 @@
+﻿Sr.NO,Age Group,Gender,Affiliation,Field,Continent,ChatGPT,CGPT Plagiarism,Use AI Tools,ChGPT for University,University Allow,Usage
+1,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Neutral,Maybe,"Research, Assignments and homework"
+2,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Neutral,Strongly agree,Yes,Assignments and homework
+3,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Yes,Strongly Agree,Strongly agree,Maybe,"Fun, Research, Assignments and homework"
+4,18-24,Female,Undergraduate Student,Health Science,Asia,No,Maybe,Agree,Agree,Yes,Other
+5,18-24,Male,Undergraduate Student,Arts and Design,Asia,Yes,Yes,Agree,Strongly agree,Maybe,"Fun, Assignments and homework"
+6,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Neutral,Maybe,"Fun, Research, Assignments and homework, Other"
+7,18-24,Male,Undergraduate Student,Health Science,Asia,Yes,Yes,Agree,Agree,Yes,"Fun, Research, Assignments and homework"
+8,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Neutral,Agree,Yes,Assignments and homework
+9,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Neutral,Agree,Yes,"Research, Assignments and homework"
+10,18-24,Male,Undergraduate Student,Engineering and Technology,North America,Yes,Yes,Agree,Agree,Yes,Assignments and homework
+11,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Yes,Agree,Disagree,Maybe,"Fun, Research, Assignments and homework"
+12,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Strongly disagree,Neutral,No,"Fun, Research, Assignments and homework"
+13,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Strongly Agree,Disagree,No,Research
+14,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Neutral,Yes,"Fun, Assignments and homework"
+15,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Neutral,Maybe,"Research, Assignments and homework"
+16,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Agree,Neutral,Yes,"Research, Assignments and homework"
+17,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Agree,Agree,Maybe,Assignments and homework
+18,18-24,Male,Undergraduate Student,Business and Management,Asia,Yes,Maybe,Strongly Agree,Strongly agree,Yes,"Fun, Research, Assignments and homework"
+19,25-31,Female,Post Graduate,Business and Management,Asia,No,Maybe,Strongly disagree,Strongly disagree,Yes,Other
+20,18-24,Male,Undergraduate Student,Health Science,Asia,Yes,Maybe,Agree,Agree,Yes,"Research, Assignments and homework"
+21,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Yes,Agree,Neutral,Yes,Assignments and homework
+22,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Agree,Strongly disagree,Maybe,Research
+23,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Strongly Agree,Neutral,Maybe,"Fun, Research"
+24,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Disagree,Agree,Yes,"Fun, Research"
+25,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Neutral,Neutral,Yes,Fun
+26,18-24,Male,Undergraduate Student,Humanities,South America,No,Maybe,Neutral,Agree,Yes,Other
+27,32 and above,Female,Other,Other,Australia,Yes,Maybe,Strongly Agree,Agree,Maybe,Assignments and homework
+28,18-24,Male,Undergraduate Student,Business and Management,Asia,Yes,No,Disagree,Neutral,Yes,Research
+29,25-31,Female,Master's Student,Arts and Design,Africa,No,No,Strongly disagree,Agree,No,Other
+30,18-24,Male,Undergraduate Student,Business and Management,Asia,Yes,No,Neutral,Agree,Yes,"Research, Assignments and homework"
+31,18-24,Male,Master's Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Agree,Yes,"Research, Assignments and homework"
+32,18-24,Male,Undergraduate Student,Other,Asia,Yes,No,Disagree,Neutral,Maybe,Fun
+33,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Strongly Agree,Strongly agree,Yes,"Fun, Research, Assignments and homework, Other"
+34,18-24,Other,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Agree,Maybe,"Fun, Research"
+35,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Agree,Agree,Yes,Fun
+36,18-24,Male,Undergraduate Student,Engineering and Technology,North America,Yes,No,Neutral,Neutral,Yes,"Fun, Research, Assignments and homework"
+37,18-24,Male,Undergraduate Student,Business and Management,Asia,Yes,Maybe,Neutral,Neutral,Maybe,"Fun, Research"
+38,18-24,Male,Undergraduate Student,Humanities,Asia,Yes,Maybe,Neutral,Neutral,Maybe,Fun
+39,18-24,Female,Undergraduate Student,Humanities,Asia,Yes,Maybe,Agree,Neutral,No,Research
+40,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,No,Maybe,Strongly Agree,Neutral,Maybe,"Research, Assignments and homework"
+41,25-31,Male,Master's Student,Social Science,Asia,No,No,Strongly disagree,Agree,No,Other
+42,18-24,Male,Undergraduate Student,Engineering and Technology,North America,Yes,Yes,Agree,Strongly agree,Yes,"Fun, Research, Assignments and homework"
+43,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Agree,Maybe,Fun
+44,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Neutral,Agree,Yes,"Fun, Research, Assignments and homework, Other"
+45,18-24,Male,Undergraduate Student,Business and Management,Asia,Yes,No,Agree,Strongly agree,Yes,"Research, Assignments and homework"
+46,18-24,Male,Undergraduate Student,Social Science,Asia,Yes,Yes,Disagree,Strongly agree,Yes,"Fun, Other"
+47,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Neutral,Neutral,Yes,"Research, Other"
+48,18-24,Male,Undergraduate Student,Business and Management,Asia,Yes,Yes,Agree,Neutral,Yes,"Research, Assignments and homework"
+49,25-31,Male,Post Graduate,Engineering and Technology,Asia,Yes,No,Neutral,Neutral,Maybe,"Research, Assignments and homework"
+50,18-24,Male,Undergraduate Student,Health Science,Asia,No,Maybe,Neutral,Agree,Yes,Other
+51,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Agree,Maybe,"Fun, Research"
+52,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Agree,Neutral,Yes,Fun
+53,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Disagree,Agree,Yes,"Fun, Research, Other"
+54,18-24,Male,Master's Student,Business and Management,South America,No,Yes,Strongly disagree,Neutral,Yes,Assignments and homework
+55,18-24,Male,Undergraduate Student,Business and Management,Asia,Yes,Maybe,Disagree,Agree,Maybe,"Fun, Research"
+56,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Disagree,Maybe,Research
+57,18-24,Male,Post Graduate,Social Science,Asia,No,Maybe,Strongly disagree,Strongly disagree,Yes,Other
+58,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Agree,Strongly agree,Maybe,Fun
+59,18-24,Male,Undergraduate Student,Engineering and Technology,North America,No,Maybe,Agree,Strongly agree,Yes,Other
+60,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Agree,Strongly agree,Yes,"Research, Assignments and homework"
+61,18-24,Female,Undergraduate Student,Engineering and Technology,North America,Yes,No,Strongly Agree,Strongly agree,Yes,"Fun, Assignments and homework"
+62,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Neutral,Neutral,Maybe,"Fun, Research, Assignments and homework"
+63,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Agree,Yes,"Fun, Research, Assignments and homework"
+64,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Disagree,Strongly agree,Yes,Research
+65,18-24,Male,Post Graduate,Business and Management,Asia,No,Maybe,Disagree,Strongly disagree,No,Other
+66,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Disagree,Strongly agree,Yes,Assignments and homework
+67,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Yes,Disagree,Neutral,Yes,"Fun, Research"
+68,18-24,Male,Undergraduate Student,Arts and Design,North America,No,No,Neutral,Agree,Yes,Other
+69,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,No,No,Disagree,Strongly agree,Yes,Other
+70,18-24,Female,Undergraduate Student,Health Science,Asia,No,Maybe,Neutral,Agree,Yes,Fun
+71,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Agree,Maybe,Assignments and homework
+72,18-24,Male,Post Graduate,Engineering and Technology,Asia,Yes,Yes,Neutral,Neutral,Yes,"Fun, Research, Assignments and homework, Other"
+73,18-24,Female,Undergraduate Student,Humanities,Asia,Yes,No,Strongly disagree,Strongly disagree,Yes,Research
+74,18-24,Female,Undergraduate Student,Arts and Design,Asia,Yes,Yes,Strongly disagree,Disagree,Yes,Research
+75,18-24,Female,Undergraduate Student,Business and Management,Asia,No,Maybe,Neutral,Neutral,Maybe,Other
+76,18-24,Female,Undergraduate Student,Arts and Design,Europe,Yes,No,Strongly disagree,Strongly disagree,Yes,Research
+77,18-24,Female,Master's Student,Engineering and Technology,Asia,Yes,Yes,Disagree,Strongly disagree,Yes,Research
+78,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Yes,Disagree,Agree,Yes,Research
+79,18-24,Female,Post Graduate,Social Science,South America,Yes,No,Neutral,Disagree,Yes,Research
+80,18-24,Female,Master's Student,Business and Management,Asia,Yes,No,Neutral,Strongly agree,Yes,"Research, Assignments and homework"
+81,18-24,Female,Undergraduate Student,Law,Australia,Yes,Yes,Strongly disagree,Neutral,Yes,Fun
+82,18-24,Other,Undergraduate Student,Social Science,Asia,Yes,Yes,Strongly Agree,Agree,Yes,Assignments and homework
+83,18-24,Female,Undergraduate Student,Business and Management,Asia,Yes,No,Strongly Agree,Strongly agree,Yes,Assignments and homework
+84,18-24,Female,Undergraduate Student,Arts and Design,Europe,Yes,No,Strongly Agree,Strongly agree,Yes,"Fun, Research, Assignments and homework"
+85,18-24,Female,Undergraduate Student,Humanities,Asia,Yes,Yes,Strongly Agree,Strongly agree,Yes,Research
+86,18-24,Female,Undergraduate Student,Humanities,Asia,Yes,Yes,Agree,Agree,Yes,"Fun, Research"
+87,18-24,Female,Undergraduate Student,Humanities,Europe,Yes,No,Strongly Agree,Agree,Yes,"Fun, Research"
+88,18-24,Female,Undergraduate Student,Arts and Design,Asia,Yes,Yes,Agree,Strongly agree,Yes,Assignments and homework
+89,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Neutral,Yes,Assignments and homework
+90,18-24,Male,Undergraduate Student,Other,Asia,Yes,No,Neutral,Neutral,Yes,Assignments and homework
+91,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Disagree,Agree,Yes,"Fun, Research, Assignments and homework"
+92,18-24,Female,Undergraduate Student,Health Science,Asia,Yes,Maybe,Disagree,Disagree,Maybe,"Research, Other"
+93,18-24,Male,Undergraduate Student,Business and Management,Asia,No,Maybe,Neutral,Neutral,Maybe,Other
+94,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,No,Yes,Neutral,Neutral,Maybe,Other
+95,18-24,Male,Undergraduate Student,Business and Management,Asia,Yes,Maybe,Strongly disagree,Strongly disagree,Maybe,"Fun, Research, Assignments and homework"
+96,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Agree,Agree,Yes,"Fun, Research, Assignments and homework"
+97,18-24,Male,Undergraduate Student,Health Science,Asia,Yes,Maybe,Neutral,Disagree,Yes,Fun
+98,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Agree,Agree,Maybe,Assignments and homework
+99,18-24,Male,Undergraduate Student,Business and Management,Asia,Yes,Yes,Agree,Disagree,No,Fun
+100,18-24,Female,Undergraduate Student,Health Science,Asia,Yes,Maybe,Neutral,Neutral,Yes,"Research, Assignments and homework"
+101,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Agree,Yes,Assignments and homework
+102,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Strongly Agree,Neutral,Yes,"Research, Assignments and homework"
+103,18-24,Female,Undergraduate Student,Business and Management,Asia,No,Maybe,Neutral,Agree,Maybe,Fun
+104,18-24,Female,Master's Student,Health Science,Asia,No,Yes,Strongly disagree,Strongly disagree,No,Other
+105,18-24,Male,Post Graduate,Other,Asia,Yes,Maybe,Strongly Agree,Strongly disagree,No,Fun
+106,32 and above,Male,Professor,Health Science,Asia,Yes,Yes,Strongly disagree,Neutral,Maybe,Other
+107,18-24,Female,Master's Student,Health Science,Asia,No,No,Neutral,Neutral,Yes,Other
+108,18-24,Female,Master's Student,Other,Asia,No,No,Strongly disagree,Neutral,Yes,Research
+109,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Neutral,Agree,Yes,"Fun, Assignments and homework"
+110,18-24,Female,Undergraduate Student,Business and Management,Asia,Yes,No,Strongly Agree,Agree,Yes,"Research, Assignments and homework"
+111,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Strongly Agree,Agree,Yes,"Fun, Assignments and homework"
+112,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Yes,Agree,Agree,No,Research
+113,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Strongly Agree,Agree,Maybe,"Fun, Assignments and homework"
+114,18-24,Male,Undergraduate Student,Business and Management,Asia,Yes,No,Strongly Agree,Strongly agree,Yes,"Fun, Research, Other"
+115,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,Yes,Yes,Disagree,Neutral,Yes,Other
+116,18-24,Male,Undergraduate Student,Engineering and Technology,Asia,No,Maybe,Strongly Agree,Strongly agree,Maybe,Other
+117,18-24,Female,Undergraduate Student,Engineering and Technology,Europe,Yes,No,Neutral,Strongly agree,Yes,"Research, Assignments and homework"
+118,18-24,Female,Master's Student,Arts and Design,North America,Yes,No,Neutral,Neutral,Yes,Fun
+119,18-24,Female,Undergraduate Student,Humanities,Asia,No,Maybe,Neutral,Neutral,Yes,Other
+120,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Yes,Neutral,Agree,Yes,"Research, Assignments and homework"
+121,18-24,Female,Undergraduate Student,Business and Management,Asia,Yes,Yes,Neutral,Strongly agree,Yes,"Fun, Research, Assignments and homework"
+122,18-24,Female,Undergraduate Student,Business and Management,Asia,Yes,No,Neutral,Strongly agree,Yes,"Research, Assignments and homework"
+123,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Maybe,Neutral,Agree,Yes,Assignments and homework
+124,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Neutral,Agree,Yes,Assignments and homework
+125,18-24,Female,Undergraduate Student,Engineering and Technology,Australia,Yes,Yes,Neutral,Agree,Yes,"Fun, Research, Assignments and homework"
+126,18-24,Female,Undergraduate Student,Social Science,Europe,Yes,No,Neutral,Strongly agree,Yes,Other
+127,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Yes,Neutral,Agree,Yes,Assignments and homework
+128,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Neutral,Agree,Yes,Assignments and homework
+129,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Neutral,Strongly agree,Yes,Assignments and homework
+130,18-24,Female,Undergraduate Student,Arts and Design,Europe,Yes,No,Neutral,Strongly agree,Yes,"Research, Assignments and homework"
+131,18-24,Female,Undergraduate Student,Engineering and Technology,North America,Yes,Yes,Neutral,Agree,Yes,Research
+132,18-24,Female,Undergraduate Student,Arts and Design,Asia,Yes,No,Neutral,Strongly agree,Yes,Assignments and homework
+133,18-24,Female,Undergraduate Student,Education,Asia,Yes,Maybe,Strongly disagree,Neutral,Yes,Fun
+134,18-24,Female,Undergraduate Student,Arts and Design,Asia,Yes,No,Neutral,Strongly disagree,Yes,Fun
+135,18-24,Female,Post Graduate,Engineering and Technology,Asia,Yes,No,Neutral,Agree,Yes,Assignments and homework
+136,18-24,Female,Undergraduate Student,Business and Management,Asia,Yes,Yes,Neutral,Agree,Yes,"Research, Assignments and homework"
+137,18-24,Female,Undergraduate Student,Business and Management,Asia,Yes,Maybe,Neutral,Agree,Yes,Assignments and homework
+138,18-24,Female,Undergraduate Student,Arts and Design,Europe,Yes,Yes,Neutral,Agree,Yes,Research
+139,18-24,Female,Undergraduate Student,Social Science,Africa,Yes,No,Neutral,Neutral,Yes,Research
+140,18-24,Female,Undergraduate Student,Arts and Design,Asia,Yes,Yes,Neutral,Agree,Yes,"Research, Assignments and homework"
+141,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,No,Neutral,Strongly agree,Yes,"Fun, Research, Assignments and homework"
+142,18-24,Female,Undergraduate Student,Engineering and Technology,North America,Yes,No,Neutral,Agree,Yes,"Research, Assignments and homework"
+143,18-24,Female,Undergraduate Student,Engineering and Technology,North America,Yes,No,Neutral,Agree,Yes,"Research, Assignments and homework"
+144,18-24,Female,Undergraduate Student,Engineering and Technology,North America,Yes,No,Neutral,Agree,Yes,Assignments and homework
+145,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Yes,Agree,Agree,Yes,"Research, Assignments and homework"
+146,18-24,Female,Undergraduate Student,Engineering and Technology,Asia,Yes,Yes,Neutral,Agree,Yes,"Research, Assignments and homework"
+147,18-24,Female,Undergraduate Student,Engineering and Technology,North America,Yes,No,Neutral,Strongly agree,Yes,"Research, Assignments and homework"
+148,18-24,Female,Undergraduate Student,Business and Management,North America,Yes,No,Neutral,Agree,Yes,"Research, Assignments and homework"
+149,18-24,Female,Undergraduate Student,Arts and Design,Asia,Yes,No,Neutral,Neutral,Yes,Fun
+150,18-24,Female,Undergraduate Student,Engineering and Technology,North America,Yes,No,Agree,Strongly agree,Yes,"Research, Assignments and homework"
+151,18-24,Female,Undergraduate Student,Engineering and Technology,North America,Yes,Maybe,Neutral,Agree,Yes,"Research, Assignments and homework"
+152,18-24,Female,Undergraduate Student,Health Science,Asia,Yes,No,Neutral,Agree,Yes,"Fun, Research, Assignments and homework"
+153,18-24,Female,Undergraduate Student,Business and Management,Asia,Yes,No,Neutral,Agree,Yes,"Research, Assignments and homework"
+154,18-24,Female,Undergraduate Student,Engineering and Technology,North America,Yes,No,Neutral,Strongly agree,Yes,"Research, Assignments and homework"
+155,18-24,Female,Undergraduate Student,Business and Management,Asia,Yes,No,Neutral,Agree,Yes,"Research, Assignments and homework"
+156,18-24,Female,Undergraduate Student,Business and Management,North America,Yes,Yes,Neutral,Agree,Yes,"Fun, Assignments and homework"
+157,18-24,Female,Undergraduate Student,Humanities,Australia,Yes,No,Neutral,Agree,Yes,"Fun, Research, Assignments and homework"
+158,18-24,Female,Undergraduate Student,Business and Management,North America,Yes,Yes,Neutral,Agree,Yes,Assignments and homework
+159,18-24,Female,Undergraduate Student,Arts and Design,Asia,Yes,Maybe,Disagree,Agree,Yes,"Research, Assignments and homework"
+160,18-24,Female,Undergraduate Student,Arts and Design,North America,Yes,No,Neutral,Agree,Yes,"Research, Assignments and homework"
+161,18-24,Female,Undergraduate Student,Business and Management,North America,Yes,Yes,Neutral,Agree,Yes,"Research, Assignments and homework"
+162,18-24,Female,Undergraduate Student,Business and Management,South America,Yes,Maybe,Neutral,Agree,Yes,Research
+163,18-24,Female,Undergraduate Student,Arts and Design,Australia,Yes,No,Disagree,Agree,Yes,"Research, Assignments and homework"
+164,18-24,Female,Undergraduate Student,Business and Management,Australia,Yes,No,Disagree,Neutral,Yes,"Research, Assignments and homework"
+165,18-24,Female,Undergraduate Student,Business and Management,Europe,Yes,No,Disagree,Agree,Yes,Assignments and homework
+166,18-24,Female,Undergraduate Student,Arts and Design,Australia,Yes,No,Disagree,Agree,Yes,"Fun, Research, Assignments and homework"
+167,18-24,Female,Undergraduate Student,Arts and Design,Europe,Yes,Yes,Neutral,Agree,Yes,"Research, Assignments and homework"
+168,18-24,Female,Undergraduate Student,Arts and Design,South America,Yes,No,Disagree,Agree,Yes,"Research, Assignments and homework"
